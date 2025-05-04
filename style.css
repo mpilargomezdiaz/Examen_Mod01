@@ -1,0 +1,138 @@
+.producto_unico {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    margin-bottom: 20px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    background-color: #f9f9f9;
+}
+
+.producto_unico h3 {
+    margin-bottom: 70px;
+    font-size: 1.5em;
+    text-align: center;
+}
+
+.padre {
+    display: flex;
+    align-items: flex-start;
+}
+
+.producto_unico img {
+    max-width: 200px;
+    margin-right: 20px;
+    border-radius: 5px;
+}
+
+.caracteristicas {
+    flex: 1;
+}
+
+.caracteristicas h4 {
+    margin-bottom: 70px;
+    margin: 5px 0;
+    font-size: 1.2em;
+    color: #333333;
+}
+
+.caracteristicas p {
+    margin: 5px auto;
+    color: #555;
+    font-size: 1em;
+    line-height: 1.2;
+    margin-bottom: 40px;
+}
+
+.caracteristicas .descrp {
+    margin: 5px auto;
+    color: #555;
+    font-size: 1em;
+    line-height: 1.2;
+    max-width: 40%;
+    margin-bottom: 50px;
+}
+
+.caracteristicas .ip {
+    margin: 5px auto;
+    color: #555;
+    font-size: 1em;
+    line-height: 1.2;
+    max-width: 40%;
+    margin-bottom: 50px;
+}
+
+
+.producto_cont {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    margin-bottom: 20px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    background-color: #f9f9f9;
+}
+
+.producto_cont h3 {
+    margin-bottom: 70px;
+    font-size: 1.5em;
+    text-align: center;
+}
+
+.padr {
+    display: flex;
+    align-items: flex-start;
+}
+
+.producto_cont img {
+    max-width: 200px;
+    margin-right: 20px;
+    border-radius: 5px;
+}
+
+.caracteristic {
+   flex: 1;
+}
+
+.caracteristic h4 {
+    margin-bottom: 70px;
+    margin: 5px 0;
+    font-size: 1.2em;
+    color: #333;
+}
+
+.caracteristic p {
+    margin: 5px auto;
+    color: #555;
+    font-size: 1em;
+    line-height: 1.2;
+    margin-bottom: 40px;
+}
+
+.caracteristic .descrip {
+    margin: 5px auto;
+    color: #555;
+    font-size: 1em;
+    line-height: 1.2;
+    max-width: 40%;
+    margin-bottom: 50px;
+}
+
+.caracteristic .ipi {
+    margin: 5px auto;
+    color: #555;
+    font-size: 1em;
+    line-height: 1.2;
+    max-width: 40%;
+    margin-bottom: 20px;
+}
+
+.alerta {
+    color: red;
+    font-size: large;
+    margin: 50px;
+}
