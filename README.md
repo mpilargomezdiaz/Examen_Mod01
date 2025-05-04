@@ -7,13 +7,6 @@ Fetch API
 - **Búsqueda individual de productos** mediante su ID (del 1 al 20).
 - **Selección de productos** para agregarlos a un carrito de compras.
 
-## Objetivos del ejercicio
-
-- Utilizar `fetch` para obtener datos desde una API REST.
-- Crear y modificar elementos del DOM de forma dinámica con JavaScript.
-- Validar entradas del usuario y manejar errores de forma básica.
-- Simular un carrito de compras con almacenamiento temporal en memoria.
-
 ## Cómo ejecutar
 
 1. Clona este repositorio o descarga los archivos.
